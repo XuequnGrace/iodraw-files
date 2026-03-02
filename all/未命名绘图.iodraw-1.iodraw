@@ -100,10 +100,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1rlHYzJjxksq_rcqrgR-3" value="field" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="290" width="140" height="90" as="geometry" />
+          <mxGeometry x="210" y="290" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B1rlHYzJjxksq_rcqrgR-4" value="transfer EID to crm when" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="181" y="308" width="160" height="30" as="geometry" />
+          <mxGeometry x="220" y="306" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
