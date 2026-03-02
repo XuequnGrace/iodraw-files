@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1rlHYzJjxksq_rcqrgR-3" value="field" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="350" width="200" height="90" as="geometry" />
+          <mxGeometry x="210" y="290" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
