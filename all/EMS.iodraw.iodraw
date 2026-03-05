@@ -108,7 +108,10 @@
         <mxCell id="B1rlHYzJjxksq_rcqrgR-12" value="Trans EID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B1rlHYzJjxksq_rcqrgR-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B1rlHYzJjxksq_rcqrgR-13" value="Update ems(contract end date)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B1rlHYzJjxksq_rcqrgR-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
