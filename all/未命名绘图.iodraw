@@ -92,7 +92,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-41" value="采购订单 和发货单号回填SDT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
