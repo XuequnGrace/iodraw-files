@@ -160,15 +160,11 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-66" value="SDT 提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1081" y="170" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-4" target="H4-Y_AIQwL1Rpgw3-44x-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="150" as="sourcePoint" />
-            <mxPoint x="935" y="250" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-47" value="工程师在SDT 填写，RPA 半小时一次，自动在crm生成报价单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
