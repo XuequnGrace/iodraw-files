@@ -43,14 +43,14 @@
             <mxPoint x="1240" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="640" as="sourcePoint" />
-            <mxPoint x="690" y="590" as="targetPoint" />
+            <mxPoint x="930" y="324.63" as="sourcePoint" />
+            <mxPoint x="830.5900000000001" y="615.9211229536635" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="640" />
-              <mxPoint x="640" y="590" />
-              <mxPoint x="1290" y="570" />
+              <mxPoint x="440" y="704.63" />
+              <mxPoint x="390" y="654.63" />
+              <mxPoint x="1040" y="634.63" />
             </Array>
           </mxGeometry>
         </mxCell>
