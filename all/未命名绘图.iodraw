@@ -13,12 +13,6 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="35" y="40" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="150" as="sourcePoint" />
