@@ -106,7 +106,7 @@
           <mxGeometry x="1110" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-45" value="如果收到款开票后-&amp;gt;发货" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-47" value="工程师在SDT 填写，RPA 半小时一次，自动在crm生成报价单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="110" width="220" height="30" as="geometry" />
