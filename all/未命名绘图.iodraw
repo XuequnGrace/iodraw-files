@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="290" width="820.59" height="449.27" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-6" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="85" width="220" height="1000" as="geometry" />
+          <mxGeometry y="85" width="220" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="35" y="40" width="150" height="50" as="geometry" />
