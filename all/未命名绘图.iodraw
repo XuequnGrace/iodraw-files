@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="290" width="820.59" height="449.27" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-6" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="85" width="220" height="1000" as="geometry" />
+          <mxGeometry x="30" y="85" width="230" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="35" y="40" width="150" height="50" as="geometry" />
@@ -28,8 +28,11 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-28" value="直接创建后续，生成确认+DMR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="10" y="460" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" source="H4-Y_AIQwL1Rpgw3-44x-34" target="H4-Y_AIQwL1Rpgw3-44x-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-34" value="根据报价生成确认和DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
-          <mxGeometry x="140" y="440" width="60" height="160" as="geometry" />
+          <mxGeometry x="140" y="440" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" target="H4-Y_AIQwL1Rpgw3-44x-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-37" value="有收费" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="150" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+          <mxGeometry x="110" y="530" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-4">
           <mxGeometry relative="1" as="geometry">
