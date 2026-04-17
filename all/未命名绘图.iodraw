@@ -66,7 +66,7 @@
             <mxPoint x="1115.5" y="675" as="sourcePoint" />
             <mxPoint x="170" y="732.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1210" y="1025" />
+              <mxPoint x="1190" y="1025" />
               <mxPoint x="170" y="1025" />
             </Array>
           </mxGeometry>
@@ -103,10 +103,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-57" value="DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-9">
-          <mxGeometry x="49" y="485" width="91" height="45" as="geometry" />
+          <mxGeometry x="40" y="500" width="91" height="45" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-58" value="Invoice" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-9">
-          <mxGeometry x="34.5" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="25.5" y="602.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="H4-Y_AIQwL1Rpgw3-44x-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
