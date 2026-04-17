@@ -28,7 +28,7 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-28" value="直接创建后续，生成确认+DMR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="10" y="460" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-34" value="根据报价生成确认和DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="140" y="440" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" target="H4-Y_AIQwL1Rpgw3-44x-34">
