@@ -26,7 +26,7 @@
           <mxGeometry x="70" y="350" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-28" value="直接创建后续，生成确认+DMR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
-          <mxGeometry x="10" y="665" width="70" height="60" as="geometry" />
+          <mxGeometry x="20" y="510" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" source="H4-Y_AIQwL1Rpgw3-44x-34" target="H4-Y_AIQwL1Rpgw3-44x-38">
           <mxGeometry relative="1" as="geometry" />
