@@ -22,8 +22,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-9" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="130" width="200" height="1030" as="geometry" />
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-9" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="100" width="200" height="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
