@@ -80,6 +80,9 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-68" value="派工？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="35" y="835" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+          <mxGeometry x="180" y="195" width="30" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="160" as="sourcePoint" />
@@ -162,9 +165,6 @@
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-47" value="工程师在SDT 填写，RPA 半小时一次，自动在crm生成报价单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="50" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
