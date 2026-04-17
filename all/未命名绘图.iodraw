@@ -13,11 +13,11 @@
             <mxPoint x="950.29232" y="399.7664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-6" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="80" width="220" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+          <mxGeometry x="35" y="40" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
