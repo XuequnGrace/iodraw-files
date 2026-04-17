@@ -22,7 +22,7 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" source="H4-Y_AIQwL1Rpgw3-44x-26" target="H4-Y_AIQwL1Rpgw3-44x-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-26" value="有无收费" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-26" value="保内/保外" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="70" y="350" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-28" value="直接创建后续，生成确认+DMR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
