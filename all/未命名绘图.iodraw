@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-64" value="CRM 中新建或者修改？同步MDG吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="50" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-65" value="客户不一致" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
