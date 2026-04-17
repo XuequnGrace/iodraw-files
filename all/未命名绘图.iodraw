@@ -46,9 +46,6 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-37" value="有收费" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="150" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-38" value="订单根据DMR 在ECC 开票情况更新" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
-          <mxGeometry x="135" y="655" width="70" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-40" value="服务确认和dmr回填SDT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="70" y="605" width="80" height="30" as="geometry" />
         </mxCell>
@@ -61,14 +58,11 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-49" value="工程师上传确认到SDT， SDT和CRM 如何沟通？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="160" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" source="H4-Y_AIQwL1Rpgw3-44x-58">
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6" source="H4-Y_AIQwL1Rpgw3-44x-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1115.5" y="675" as="sourcePoint" />
             <mxPoint x="170" y="732.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="1025" />
-              <mxPoint x="170" y="1025" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-64" value="CRM 中新建或者修改？同步MDG吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
@@ -82,6 +76,9 @@
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-69" value="follow&lt;div&gt;up&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="200" y="195" width="30" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-38" value="订单根据DMR 在ECC 开票情况更新" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
+          <mxGeometry x="135" y="725" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-4">
           <mxGeometry relative="1" as="geometry">
@@ -164,6 +161,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="625" as="sourcePoint" />
             <mxPoint x="1180" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4-Y_AIQwL1Rpgw3-44x-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4-Y_AIQwL1Rpgw3-44x-58" target="H4-Y_AIQwL1Rpgw3-44x-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1257" y="848" as="sourcePoint" />
+            <mxPoint x="230" y="902.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1260" y="1195" />
+              <mxPoint x="230" y="1195" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
