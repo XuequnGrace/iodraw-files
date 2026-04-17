@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="290" width="820.59" height="449.27" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-6" value="CRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="220" height="1000" as="geometry" />
+          <mxGeometry x="30" y="85" width="220" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-4" value="CRM 报价" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry x="35" y="40" width="150" height="50" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="H4-Y_AIQwL1Rpgw3-44x-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4-Y_AIQwL1Rpgw3-44x-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="380" as="sourcePoint" />
-            <mxPoint x="220" y="505" as="targetPoint" />
+            <mxPoint x="150" y="470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="380" />
               <mxPoint x="180" y="505" />
