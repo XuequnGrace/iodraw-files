@@ -196,6 +196,9 @@
         <mxCell id="zVFq458dKH1QGLt6R4ZW-2" value="Contract/Order" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" width="105" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zVFq458dKH1QGLt6R4ZW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVFq458dKH1QGLt6R4ZW-5" target="zVFq458dKH1QGLt6R4ZW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-5" value="order(most unplanded order)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="21.25" width="97.5" height="37.5" as="geometry" />
         </mxCell>
@@ -207,6 +210,9 @@
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-10" value="Order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zVFq458dKH1QGLt6R4ZW-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
