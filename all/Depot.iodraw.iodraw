@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-5" value="order(most unplanded order)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="97.5" height="37.5" as="geometry" />
+          <mxGeometry x="470" y="150" width="97.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-7" value="Contract" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="60" height="30" as="geometry" />
