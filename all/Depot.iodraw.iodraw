@@ -181,8 +181,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVFq458dKH1QGLt6R4ZW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVFq458dKH1QGLt6R4ZW-1" target="zVFq458dKH1QGLt6R4ZW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-1" value="PQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="90" height="60" as="geometry" />
+          <mxGeometry x="10" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zVFq458dKH1QGLt6R4ZW-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="185" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
