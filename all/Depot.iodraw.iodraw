@@ -207,7 +207,7 @@
           <mxGeometry x="470" y="150" width="97.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-7" value="Contract" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVFq458dKH1QGLt6R4ZW-8" target="zVFq458dKH1QGLt6R4ZW-11">
           <mxGeometry relative="1" as="geometry">
@@ -222,13 +222,13 @@
           <mxGeometry x="230" y="160" width="102.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-10" value="Order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="455" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-11" value="Confirmation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-13" value="Renewal??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
