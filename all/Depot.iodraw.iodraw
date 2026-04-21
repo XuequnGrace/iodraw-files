@@ -206,7 +206,12 @@
           <mxGeometry x="300" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVFq458dKH1QGLt6R4ZW-8" target="zVFq458dKH1QGLt6R4ZW-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="180" />
+              <mxPoint x="353" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-8" value="Order(Most planned order)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="102.5" height="40" as="geometry" />
