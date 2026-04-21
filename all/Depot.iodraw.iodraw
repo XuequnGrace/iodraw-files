@@ -197,7 +197,7 @@
           <mxGeometry x="150" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry x="322.5" y="15" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zVFq458dKH1QGLt6R4ZW-7" value="Contract" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="10" width="60" height="30" as="geometry" />
