@@ -259,7 +259,7 @@
         <mxCell id="RWPZFejUTB34TaMu4RhG-2" value="工程师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RWPZFejUTB34TaMu4RhG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RWPZFejUTB34TaMu4RhG-3" value="BO 备件专员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
