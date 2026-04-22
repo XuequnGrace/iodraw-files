@@ -257,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWPZFejUTB34TaMu4RhG-1" value="BO&amp;nbsp; CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_oeOzihHh3eZfC1rCxX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWPZFejUTB34TaMu4RhG-2">
           <mxGeometry relative="1" as="geometry">
@@ -268,7 +268,7 @@
           <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWPZFejUTB34TaMu4RhG-3" value="BO 备件专员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_oeOzihHh3eZfC1rCxX-2" value="登记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="40" as="geometry" />
