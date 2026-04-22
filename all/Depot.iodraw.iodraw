@@ -273,10 +273,10 @@
           <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_oeOzihHh3eZfC1rCxX-2" value="登记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_oeOzihHh3eZfC1rCxX-4" value="客户核对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
